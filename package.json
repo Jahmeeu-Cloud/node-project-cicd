@@ -1,0 +1,23 @@
+{
+    "name": "jenkins",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Jahmeeu-Cloud/node-project-cicd.git"
+    },
+    "author": "Horla",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Jahmeeu-Cloud/node-project-cicd/issues"
+    },
+    "homepage": "https://github.com/Jahmeeu-Cloud/node-project-cicd#readme",
+    "description": "",
+    "dependencies": {
+      "express": "^5.1.0"
+    }
+  }
+  
